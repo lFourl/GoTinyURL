@@ -8,7 +8,7 @@ URL Shortener in Go
 - More error handling
 - Collision Prevention
 - Custom URLs
-- Testing
+- Unit Testing
 - Frontend (Templ, HTMX)
 - CockroachDB (PostgreSQL)
 
